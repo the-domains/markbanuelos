@@ -1,0 +1,23 @@
+name: MarkBanuelos
+favicon: null
+layout_spectrum: 0.4920364054851234
+typography_spectrum: 0.6161607815884054
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8473064480349422
+  lightness: 0.8829949637874961
+  saturation: 0.6982200623024255
+  rhythmicContrast: 0.33162083732895553
+purpose: []
