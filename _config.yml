@@ -1,7 +1,7 @@
 name: MarkBanuelos
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.6161607815884054
+typography_spectrum: 0.74093
 title: Mark Banuelos
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#c6d9ea'
   brandStrength: 0.5
   lightness: 0.8829949637874961
-  saturation: 0.6982200623024255
-  rhythmicContrast: 0.33162083732895553
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
