@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mark Banuelos]]></title>
         <description><![CDATA[Mark Banuelos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/markbanuelos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 20:04:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 20:16:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/markbanuelos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Road Trip California to Canada]]></title>
+            <description><![CDATA[<article><h1>Road Trip California to Canada</h1><p>This is our road trip from California to Canada and back all done journeying up the coast in a van. Total of 16 days. 3,580+ miles.</p><img src="http://i.vimeocdn.com/video/535251573_1280.jpg"></article>]]></description>
+            <link>https://vimeo.com/139428006</link>
+            <guid isPermaLink="false">c488008b-da58-44e1-9a09-b5231554df29</guid>
+            <pubDate>Mon, 09 Nov 2015 20:15:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Golden Ears, Canada]]></title>
             <description><![CDATA[<article><h1>Golden Ears, Canada</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/55518607-5c20-4098-bb5b-90378a050048.png"></article>]]></description>
-            <link>undefinedgolden-ears-canada/index.html</link>
+            <link>https://thegrid.ai/markbanuelos/golden-ears-canada/index.html</link>
             <guid isPermaLink="false">dd9dcbd7-a230-4e15-b79d-af0e8e1a447a</guid>
             <pubDate>Mon, 09 Nov 2015 20:03:50 GMT</pubDate>
         </item>
