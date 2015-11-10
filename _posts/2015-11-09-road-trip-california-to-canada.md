@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://vimeo.com/139428006'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - rokinon
   - lumix
 description: 'This is our road trip from California to Canada and back all done journeying up the coast in a van. Total of 16 days. 3,580+ miles.'
-datePublished: '2015-11-09T20:15:48.351Z'
-dateModified: '2015-11-09T19:57:16.544Z'
+datePublished: '2015-11-10T07:01:13.123Z'
+dateModified: '2015-11-10T07:01:06.802Z'
 author:
   - name: Mark Banuelos
     url: 'http://vimeo.com/user22911369'
@@ -40,14 +39,15 @@ app_links:
     app_store_id: '425194759'
     app_name: Vimeo
 title: Road Trip California to Canada
+sourcePath: _posts/2015-11-09-road-trip-california-to-canada.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2015-11-09-road-trip-california-to-canada.md
-published: true
+url: road-trip-california-to-canada/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
